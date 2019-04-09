@@ -41,7 +41,7 @@ python run.py --agt 9 --usr 1 --max_turn 40 --movie_kb_path .\deep_dialog\data\m
 
 
 import argparse, json, copy, os
-import cPickle as pickle_
+import cPickle as pickle
 
 from deep_dialog.dialog_system import DialogManager, text_to_dict
 from deep_dialog.agents import AgentCmd, InformAgent, RequestAllAgent, RandomAgent, EchoAgent, RequestBasicsAgent, AgentDQN
