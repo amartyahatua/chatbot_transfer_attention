@@ -1,0 +1,5 @@
+gender,state,zip,organ,height,weight,autoimmune_disease,hiv,malignancies,other_problem,on_insulin,no_insulin,time_insulin,storke,pacemaker,on_dialysis,serum_creatinine,life_support,hepatitis,fatty_liver,smoker,ventilation,pneumonia,asthamatic,address,waiting
+1,26,27024,1,190,46,0,1,1,0,1,0,1,0,1,1,81,0,1,1,1,0,0,1,NECH - Children's Hospital & Medical Center	Omaha,331
+1,47,53405,3,167,81,1,0,0,1,0,1,1,0,1,1,92,0,1,1,0,0,1,0,WVCA - Charleston Area Medical Center	Charleston,268
+0,1,35520,0,172,94,0,0,1,0,1,1,0,1,1,1,91,0,0,0,0,1,0,1,CASJ - Saint Joseph Hospital	Orange,279
+0,27,89102,3,196,62,0,0,1,1,1,1,1,0,1,1,95,0,1,0,0,1,1,1,NVUM - University Medical Center of Southern Nevada	Las Vegas,279
